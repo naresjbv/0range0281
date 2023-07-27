@@ -1,3 +1,3 @@
-- 👋 Hi, glad to meet you! I’m 0range0281
+- 👋 Hi, glad to meet you! I’m Joshua
 - 👀 I’m interested in cybersecurity, cloud, and microservices
 - 🌱 I’m currently learning Next.js, React.js, PostgreSQL, and TailwindCSS
